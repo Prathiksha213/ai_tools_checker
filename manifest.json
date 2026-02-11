@@ -4,7 +4,6 @@
   "version": "1.0",
   "manifest_version": 3,
   "action": {
-    "default_popup": "ai_tools.html",
-    "default_icon": "ai_tool.png"
+    "default_popup": "ai_tools.html"
   }
 }
